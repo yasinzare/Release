@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "windows-clang-x64",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:\\Users\\Yasin\\Documents\\Arduino",
+                "D:\\Arduino",
+                "C:\\Users\\Yasin\\AppData\\Local\\Arduino15",
+                "C:/Users/Yasin/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/config",
+                "C:/Users/Yasin/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/esp32",
+                "C:/Users/Yasin/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/freertos",
+                "C:/Users/Yasin/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/log",
+                "C:/Users/Yasin/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/soc",
+                "C:/Users/Yasin/AppData/Local/Arduino15/packages/STMicroelectronics/tools/xpack-arm-none-eabi-gcc/10.3.1-2.3/arm-none-eabi/include",
+                "C:/Users/Yasin/AppData/Local/Arduino15/packages/esp32/hardware/esp32/1.0.6/tools/sdk/include/heap"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.23.28105/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "windows-msvc-x64"
+        }
+    ],
+    "version": 4
+}
